@@ -1,0 +1,45 @@
+{
+    "General": {
+        "Username": "chthuan21@clc.fitus.edu.vn",
+        "Password": "1231231231",
+        "MailServer": "127.0.0.1",
+        "SMTP": 2225,
+        "POP3": 3335,
+        "Autoload": 10
+    },
+    "Email": {
+        "Inbox": "D:\\EMAIL\\Inbox",
+        "Project":"D:\\EMAIL\\Project",
+        "Work":"D:\\EMAIL\\Work",
+        "Spam":"D:\\EMAIL\\Spam",
+        "Important":"D:\\EMAIL\\Important"
+      },
+    "filters": [
+        {
+          "criteria": {
+            "from": ["ahihi@testing.com", "ahuu@testing.com"]
+          },
+          "destination": "Project"
+        },
+        {
+          "criteria": {
+            "subject": ["urgent", "ASAP"]
+          },
+          "destination": "Important"
+        },
+        {
+          "criteria": {
+            "content": ["report", "meeting"]
+          },
+          "destination": "Work"
+        },
+        {
+          "criteria": {
+            "$or": ["virus", "hack", "crack"]
+          },
+          "destination": "Spam"
+        }
+    ]
+    
+    
+}
