@@ -1,0 +1,62 @@
+{
+  "bill": {
+    "id": 2,
+    "date": {
+      "day": 15,
+      "month": 7,
+      "year": 2022
+    },
+    "time": {
+      "hour": 18,
+      "minutes": 13,
+      "second": 22
+    },
+    "total money": 240000,
+    "status": "paid",
+    "card number": 0,
+    "milk tea": [
+      {
+        "type": "truyen thong",
+        "amount": 1,
+        "into money": 30000
+      },
+      {
+        "type": "tran chau duong den",
+        "amount": 1,
+        "into money": 35000
+      },
+      {
+        "type": "matcha dau do",
+        "amount": 1,
+        "into money": 35000
+      },
+      {
+        "type": "Oreo dau do",
+        "amount": 1,
+        "into money": 40000
+      }
+    ],
+    "topping": [
+      {
+        "type": "tran chau",
+        "amount": 2,
+        "into money": 10000
+      },
+      {
+        "type": "thach rau cau",
+        "amount": 2,
+        "into money": 10000
+      },
+      {
+        "type": "banh flan",
+        "amount": 12,
+        "into money": 60000
+      },
+      {
+        "type": "pudding",
+        "amount": 2,
+        "into money": 20000
+      }
+    ]
+  }
+}

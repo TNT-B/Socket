@@ -1,0 +1,54 @@
+{
+  "bill": {
+    "id": null,
+    "date": null,
+    "time": null,
+    "total money": 0,
+    "status": null,
+    "card number": 0,
+    "milk tea": [
+      {
+        "type": "truyen thong",
+        "amount": 0,
+        "into money": 0
+      },
+      {
+        "type": "tran chau duong den",
+        "amount": 0,
+        "into money": 0
+      },
+      {
+        "type": "matcha dau do",
+        "amount": 0,
+        "into money": 0
+      },
+      {
+        "type": "Oreo dau do",
+        "amount": 0,
+        "into money": 0
+      }
+    ], 
+    "topping": [
+      {
+        "type": "tran chau",
+        "amount": 0,
+        "into money": 0
+      },
+      {
+        "type": "thach rau cau",
+        "amount": 0,
+        "into money": 0
+      },
+      {
+        "type": "banh flan",
+        "amount": 0,
+        "into money": 0
+      },
+      {
+        "type": "pudding",
+        "amount": 0,
+        "into money": 0
+      }
+    ]
+  }
+}

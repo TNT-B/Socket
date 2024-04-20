@@ -1,0 +1,44 @@
+{
+    "menu": {
+      "milk tea": [
+        {
+          "type": "TRA SUA VI TRUYEN THONG",
+          "price": 30000,
+          "note": "nothing"
+        },
+        {
+          "type": "TRA SUA TRAN CHAU DUONG DEN",
+          "price": 35000,
+          "note": "nothing"
+        },
+        {
+          "type": "TRA SUA MATCHA DAU DO",
+          "price": 35000,
+          "note": "nothing"
+        },
+        {
+          "type": "TRA SUA OREO DAU DO",
+          "price": 40000,
+          "note": "nothing"
+        }
+      ],
+      "topping": [
+        {
+          "type": "TRAN CHAU",
+          "price": 5000
+        },
+        {
+          "type": "THACH RAU CAU",
+          "price": 5000
+        },
+        {
+          "type": "BANH FLAN",
+          "price": 5000
+        },
+        {
+          "type": "PUDDING",
+          "price": 10000
+        }
+      ]
+    }
+  }
